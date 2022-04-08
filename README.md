@@ -1,1 +1,1 @@
-#Hacky scripts used to submit jobs to HPC, clean up error files and enter interactive node
+#Hacky scripts used to submit jobs to a slurm HPC, clean up error files and enter an interactive node
