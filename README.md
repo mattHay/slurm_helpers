@@ -1,1 +1,1 @@
-#Hacky scripts used to submit jobs to a slurm HPC, clean up error files and enter an interactive node
+#Hacky scripts used to schedule jobs using Slurm Workload Manager, clean up error files and request an interactive node with a specific amount of memory allocated
